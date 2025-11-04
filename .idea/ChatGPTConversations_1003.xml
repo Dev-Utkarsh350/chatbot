@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.sapient.pscopilot.state.conversations.ConversationsState">
+    <option name="conversationsContainer" value="{&quot;conversationsMapping&quot;:{&quot;pschat.chat.completion&quot;:[{&quot;id&quot;:&quot;a59d5e9c-2037-455d-babe-7bd55f09216f&quot;,&quot;messages&quot;:[],&quot;clientCode&quot;:&quot;pschat.chat.completion&quot;,&quot;model&quot;:&quot;PSChat&quot;,&quot;provider&quot;:&quot;LionChatRag&quot;,&quot;providerModel&quot;:&quot;gpt-4o&quot;,&quot;createdOn&quot;:[2025,11,4,12,53,31,272660700],&quot;updatedOn&quot;:[2025,11,4,12,53,31,272660700],&quot;discardTokenLimit&quot;:false,&quot;chatId&quot;:null,&quot;chatTabName&quot;:&quot;DEFAULT&quot;,&quot;chatType&quot;:&quot;STANDARD&quot;}]}}" />
+    <option name="currentConversation" value="{&quot;id&quot;:&quot;a59d5e9c-2037-455d-babe-7bd55f09216f&quot;,&quot;messages&quot;:[],&quot;clientCode&quot;:&quot;pschat.chat.completion&quot;,&quot;model&quot;:&quot;PSChat&quot;,&quot;provider&quot;:&quot;LionChatRag&quot;,&quot;providerModel&quot;:&quot;gpt-4o&quot;,&quot;createdOn&quot;:[2025,11,4,12,53,31,272660700],&quot;updatedOn&quot;:[2025,11,4,12,53,31,272660700],&quot;discardTokenLimit&quot;:false,&quot;chatId&quot;:null,&quot;chatTabName&quot;:&quot;DEFAULT&quot;,&quot;chatType&quot;:&quot;STANDARD&quot;}" />
+  </component>
+</project>
